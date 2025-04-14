@@ -6,11 +6,9 @@
 	<a href="https://www.linkedin.com/in/zach-maas/">LinkedIn</a>
 </p>
 
-### BioML by day, Radio/Networking enthusiast the rest of the time
+## Recent CS PhD Grad @ [DnA Lab](https://dna.colorado.edu)
 
-CS PhD Student @ [DnA Lab](dna.colorado.edu)
-
-- I use daily: `.py`, `.R`, `pytorch`, `HPC`
-- Research focus: what's actually different between things in biological data? samples, experiments, cell types
-- Excited about: LLM interpretability, signal processing, making things faster
-- `ping` me about **grad school, ml interpretability, project design**
+### Right Now
+- Seeking industry roles in **Machine Learning**, **Interpretability**, or **Data Science**. Open to opportunities!
+- Working on independent ML interp work! [S-DIAS](https://github.com/zmaas/S-DIAS)
+- Excited about: LLM interpretability, signal processing, making code faster (CUDA, etc)
