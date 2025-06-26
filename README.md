@@ -10,5 +10,5 @@
 
 ## Right Now
 - Seeking industry roles in **Machine Learning**, **Interpretability**, or **Data Science**. Open to opportunities!
-- Working on independent ML interp work! [S-DIAS](https://github.com/zmaas/S-DIAS)
+- Working on independent ML interp work! [Graphical Activation Probes](https://github.com/zmaas/S-DIAS)
 - Excited about: LLM interpretability, signal processing, making code faster (CUDA, etc)
