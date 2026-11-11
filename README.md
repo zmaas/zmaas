@@ -1,4 +1,4 @@
-# Hey, I'm Zach!
+<h1 align="center">Hey, I'm Zach!</h1>
 
 <p align="center">
 	<a href="https://zachmaas.com">Website</a> •
@@ -6,8 +6,7 @@
 	<a href="https://www.linkedin.com/in/zach-maas/">LinkedIn</a>
 </p>
 
-### Independent Mech Interp Researcher
-
 ## Right Now
-- Working on independent ML interp work!
-- Excited about: LLM interpretability, signal processing, making code faster (CUDA, etc)
+- Working on cool work as an AI Safety Researcher at AE Studio!
+- Finishing up a CG TAIS grant
+- Excited about: neurons as interpretable bases, radio digimodes
